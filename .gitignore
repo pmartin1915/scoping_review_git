@@ -1,0 +1,9 @@
+# Python scripts (correction tools, not part of submission)
+*.py
+__pycache__/
+
+# Backup files
+*_BACKUP.*
+
+# Draft files
+*_Draft.*
